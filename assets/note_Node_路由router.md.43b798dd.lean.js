@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,h as l}from"./app.0ca118e2.js";const A=JSON.parse('{"title":"express.Router使用","description":"","frontmatter":{},"headers":[],"relativePath":"note/Node/路由router.md","lastUpdated":null}'),p={name:"note/Node/路由router.md"},e=l("",8),o=[e];function r(t,c,D,y,i,F){return n(),a("div",null,o)}const u=s(p,[["render",r]]);export{A as __pageData,u as default};

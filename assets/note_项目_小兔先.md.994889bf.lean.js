@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as a,h as r}from"./app.0ca118e2.js";const g=JSON.parse('{"title":"VUE - 电商网站","description":"","frontmatter":{},"headers":[],"relativePath":"note/项目/小兔先.md","lastUpdated":null}'),i={name:"note/项目/小兔先.md"},n=r("",8),o=[n];function h(p,s,c,u,l,_){return t(),a("div",null,o)}const b=e(i,[["render",h]]);export{g as __pageData,b as default};

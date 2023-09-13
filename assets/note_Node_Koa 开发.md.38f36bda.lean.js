@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,h as l}from"./app.0ca118e2.js";const A=JSON.parse('{"title":"Koa","description":"","frontmatter":{},"headers":[],"relativePath":"note/Node/Koa 开发.md","lastUpdated":null}'),p={name:"note/Node/Koa 开发.md"},o=l("",9),e=[o];function t(r,c,i,y,D,F){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{A as __pageData,d as default};

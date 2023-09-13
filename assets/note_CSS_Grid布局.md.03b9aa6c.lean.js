@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,h as l}from"./app.0ca118e2.js";const b=JSON.parse('{"title":"Grid","description":"","frontmatter":{},"headers":[],"relativePath":"note/CSS/Grid布局.md","lastUpdated":1694595205000}'),p={name:"note/CSS/Grid布局.md"},o=l("",5),e=[o];function r(c,t,D,y,B,i){return n(),a("div",null,e)}const m=s(p,[["render",r]]);export{b as __pageData,m as default};

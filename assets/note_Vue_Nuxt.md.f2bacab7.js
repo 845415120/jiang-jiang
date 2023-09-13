@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./app.0ca118e2.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/Vue/Nuxt.md","lastUpdated":1694595205000}'),o={name:"note/Vue/Nuxt.md"};function r(n,s,c,p,d,_){return e(),a("div")}const m=t(o,[["render",r]]);export{u as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,h as r}from"./app.0ca118e2.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/其他/GitHub美化.md","lastUpdated":1694595205000}'),p={name:"note/其他/GitHub美化.md"},s=r("",1),i=[s];function n(o,m,c,h,_,l){return t(),a("div",null,i)}const g=e(p,[["render",n]]);export{u as __pageData,g as default};
