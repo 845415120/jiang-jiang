@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,h as l}from"./app.0ca118e2.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/技术书籍笔记/面向对象是怎么样工作的.md","lastUpdated":null}'),p={name:"note/技术书籍笔记/面向对象是怎么样工作的.md"},e=l("",8),o=[e];function t(c,r,i,y,F,D){return a(),n("div",null,o)}const b=s(p,[["render",t]]);export{m as __pageData,b as default};

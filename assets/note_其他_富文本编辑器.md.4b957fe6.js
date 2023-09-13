@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.0ca118e2.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"note/其他/富文本编辑器.md","lastUpdated":null}'),o={name:"note/其他/富文本编辑器.md"};function n(r,s,_,c,p,d){return t(),a("div")}const m=e(o,[["render",n]]);export{l as __pageData,m as default};
