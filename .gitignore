@@ -8,7 +8,7 @@
 node_modules
 
 # compile
-build
+#build
 cache
 #dist
 .temp
