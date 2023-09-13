@@ -10,7 +10,7 @@ node_modules
 # compile
 build
 cache
-dist
+#dist
 .temp
 
 # lock files
