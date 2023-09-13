@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vitepress dev docs --port=8732",
     "build": "vitepress build docs",
-    "build:github": "cross-env APP_BASE_PATH=/vitepress-nav-template/ vitepress build docs",
+    "build:github": "cross-env APP_BASE_PATH=/jiang-jiang/ vitepress build docs",
     "prepare": "husky install",
     "format": "prettier --write ."
   },
@@ -14,12 +14,12 @@
     "type": "git",
     "url": "git+https://github.com/maomao1996/vitepress-nav-template.git"
   },
-  "author": "maomao1996 <1714487678@qq.com>",
+  "author": "jiang-jiang <845415120@qq.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maomao1996/vitepress-nav-template/issues"
+    "url": "https://github.com/845415120/jiang-jiang/issues"
   },
-  "homepage": "https://github.com/maomao1996/vitepress-nav-template#readme",
+  "homepage": "https://github.com/845415120/jiang-jiang#readme",
   "devDependencies": {
     "@femm/prettier": "^1.0.2",
     "@femm/verify-commit": "^1.0.1",
