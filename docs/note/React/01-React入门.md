@@ -1,7 +1,8 @@
 # React  基础
 
 全局安装
-`npm install -g create-react-app`
+````npm install -g create-react-app````
+
 创建项目
 `create-react-app your-app 注意命名方式`
 
@@ -61,18 +62,7 @@ function AboutPage() {
 }
 ```
 
-使用 “双大括号”传递JSX 中的 CSS 和 对象
-对象也用大括号表示，例如 `{ name: "Hedy Lamarr", inventions: 5 }`。
-因此，为了能在 JSX 中传递，你必须用另一对额外的大括号包裹对象：`person={{ name: "Hedy Lamarr", inventions: 5 }`}。
-
 ## 添加样式
-
-在 React 中，你可以使用**className**来指定一个 CSS 的 class。它与 HTML 的 class 属性的工作方式相同
-`<img className="avatar" />`
-
-## 显示数据
-
-使用`{}`来显示数据如:
 
 ```JSX
 const user = {

@@ -79,9 +79,9 @@ export const NAV_DATA: NavData[] = [
         desc: 'Egghead 是一个在线学习平台，提供高质量的编程和开发教程',
         link: 'https://egghead.io/'
       },{
-        title: 'Yati Wang 聊天室',
+        title: 'AI面试题',
         icon: '/icons/27.png',
-        desc: 'Yati Wang 聊天室是一个在线聊天应用程序，用于与他人实时交流',
+        desc: '使用AI帮你精准押中面试题',
         link: 'https://yatiwang.chat/'
       }
     ]
@@ -161,7 +161,7 @@ export const NAV_DATA: NavData[] = [
         link: 'https://visualgo.net/zh'
       },{
         title: 'Best of JavaScript',
-        // icon: '/icons/02.ico',
+        icon: '/icons/28.png',
         desc: 'Best of JavaScript 是一个展示和评价 JavaScript 开源项目的网站，帮助开发者找到最好的 JavaScript 工具和库',
         link: 'https://bestofjs.org/'
       },{
@@ -169,6 +169,57 @@ export const NAV_DATA: NavData[] = [
         // icon: '/icons/02.ico',
         desc: '是一个组件库的资源网站，用于查找和比较各种前端组件和库',
         link: 'https://component-party.dev/#update-state'
+      }
+    ]
+  },
+  {
+    title: '技术博客',
+    items: [
+      {
+        title: 'docs 前端博客',
+        // icon: '/icons/02.ico',
+        desc: 'Richard 文档是一个包含各种文档和教程的资源网站，提供学习和参考资料',
+        link: 'https://richard-docs.netlify.app/'
+      },{
+        title: 'dev-zuo 笔记',
+        // icon: '/icons/02.ico',
+        desc: '前端技术文章和教程',
+        link: 'http://fe.zuo11.com/'
+      },{
+        title: '前端九部 - 基础知识',
+        // icon: '/icons/02.ico',
+        desc: '前端九部的基础知识文档，提供前端开发的基本知识和技能学习资源',
+        link: 'https://www.yuque.com/fe9/basic'
+      },{
+        title: '王图南的个人博客',
+        // icon: '/icons/02.ico',
+        desc: '王图南的个人博客，包含技术博文和学习资源',
+        link: 'https://wangtunan.github.io/blog/'
+      },{
+        title: '左耳听风',
+        // icon: '/icons/02.ico',
+        desc: '左耳听风',
+        link: 'https://doc.vercel.app/air/'
+      },{
+        title: 'Dselegent 的博客',
+        // icon: '/icons/02.ico',
+        desc: 'Dselegent 的个人博客，包含各种技术和生活相关的文章',
+        link: 'https://blog.dselegent.cf/'
+      },{
+        title: 'Vue.js 源码',
+        // icon: '/icons/02.ico',
+        desc: 'Vue.js 源码',
+        link: 'https://vue-js.com/learn-vue/'
+      },{
+        title: 'dev-zuo知识体系，技能树',
+        // icon: '/icons/02.ico',
+        desc: 'dev-zu知识体系，技能树',
+        link: 'http://f.zuo11.com/'
+      },{
+        title: 'Vue 3 中文文档',
+        icon: '/icons/02.ico',
+        desc: 'Vue 3 中文文档是 Vue.js 3 的官方中文文档和教程',
+        link: 'https://vue3js.cn/'
       }
     ]
   },
@@ -793,7 +844,7 @@ export const NAV_DATA: NavData[] = [
     ]
   },
   {
-    title: 'AI 导航',
+    title: '摸鱼',
     items: [
       {
         icon: '/icons/chatgpt.png',
@@ -815,35 +866,12 @@ export const NAV_DATA: NavData[] = [
         title: 'Beautiful.ai（PPT）',
         link: 'https://www.beautiful.ai'
       },
-
+      {
+        icon: 'https://global-uploads.webflow.com/59deb588800ae30001ec19c9/5d4891e0e260e3c1bc37b100_beautiful%20ai%20favicon%20%20blue%20square.png',
+        title: 'Beautiful.ai（PPT）',
+        link: 'https://www.beautiful.ai'
+      },
     ]
   },
-  {
-    title: '茂茂的站点导航',
-    items: [
-      {
-        icon: '/logo.png',
-        title: '前端日常笔记',
-        desc: '日常笔记记录（零零散散啥都记系列）',
-        link: 'https://github.com/maomao1996/daily-notes'
-      },
-      {
-        icon: '/logo.png',
-        title: '前端思维导图',
-        desc: '用思维导图的方式总结个人所学知识',
-        link: 'https://mindmap.fe-mm.com'
-      },
-      {
-        icon: 'https://qwerty.fe-mm.com/apple-touch-icon.png',
-        title: 'Qwerty Learner',
-        desc: '为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件',
-        link: 'https://qwerty.fe-mm.com'
-      },
-
-    ]
-  },
-
-
-
 
 ]
